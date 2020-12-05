@@ -24,7 +24,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="88"/>
+        <location filename="mainwindow.ui" line="86"/>
+        <source>Вариант 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="101"/>
         <source>Pirogov, Sokolova, Bubencov, Bogomolov</source>
         <translation type="unfinished"></translation>
     </message>
